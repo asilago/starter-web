@@ -16,13 +16,12 @@
 </head>
 <body>
 	<main class="container">
-	<!-- Content Goes Here -->
 		<p>
 			Just some content
+			Branch changes on big trouble branch.
 		</p>
 	</main>
 	<footer class="container">
-		<p>&copy; Anne Company 2022</p>
 	</footer>
 </body>
 </html>
