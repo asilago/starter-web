@@ -14,7 +14,7 @@ This is the purpose of the web project.
 ## Deployment
 
 This the deployment section
-
+this is new line in deployment.
 ## Copyright
 
 2022 Git.Training. All right reserved.

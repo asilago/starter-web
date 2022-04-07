@@ -17,4 +17,4 @@ This the deployment section
 
 ## Copyright
 
-2022 Git.Training
+2022 Git.Training. All right reserved.
