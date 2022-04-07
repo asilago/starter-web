@@ -1,5 +1,6 @@
 # Starter Web Project
 
+Sample website with plenty of files for demos
 This repository is for showing how Git and GitHub work
 
 ## Introduction
@@ -12,8 +13,7 @@ This is the purpose of the web project.
 
 ## Deployment
 
-
-Sample website with plenty of files for demos
+This the deployment section
 
 ## Copyright
 
