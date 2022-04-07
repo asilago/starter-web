@@ -3,7 +3,7 @@
 	Copyright 2014 Git.Training	
  -->
 <head>
-	<title>A Respectful Website</title>
+	<title>A New Title - Ant Silago</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -21,6 +21,7 @@
 		</p>
 	</main>
 	<footer class="container">
+		<p>&copy; 2022 All Right Git.Training</p>
 	</footer>
 </body>
 </html>
