@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Antoinette Silago	asilago@hotmail.com
 
 # THANKS
 
